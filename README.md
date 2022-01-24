@@ -62,6 +62,7 @@ Neat and perfect soldering play an important role for all kind of PCBs. Since so
 
 Final Action - 
 
-Our circuit, is now completely ready for use. Now just plug-in power with AC line voltage and enjoy the circuit. Again thanks to JLCPCB for best quality PCBs.
+Our circuit, is now completely ready for use. Now just plug-in power with AC line voltage and enjoy the circuit.
+Again thanks to JLCPCB for best quality PCBs.
 
 
